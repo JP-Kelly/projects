@@ -6,7 +6,7 @@
 * 🌍  I'm based in Nottingham
 * 🖥️  See my data viz portfolio at [Tableau](http://public.tableau.com/app/profile/jp.kelly8457/vizzes)
 * ✉️  You can contact me at [jippykelly@gmail.com](mailto:jippykelly@gmail.com)
-* 🧠  I'm currently learning Data Modelling and Computer Vision in Python
+* 🧠  I'm currently learning Data Modelling and Computer Vision in Python, and preparing for my Tableau Desktop Certification
 * 🤝  I'm open to collaborating on data-driven projects, especially those in the creative industries
 
 ### Skills
