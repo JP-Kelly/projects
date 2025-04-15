@@ -35,7 +35,7 @@
 
 A highly motivated researcher with a proven track record of applying rigorous analytical methodologies to understand the evolving landscape of digital media. Specialising in the intersection of content presentation, user experience (UX), and editorial strategy on online platforms, my work combines computational methods with critical media studies perspectives.
 
-My research portfolio demonstrates expertise in:
+My portfolio demonstrates expertise in:
 
 * **Longitudinal Interface Analysis:** Developing and implementing replicable methods for tracking and analyzing changes in platform interfaces over extended periods, as evidenced by the BBC iPlayer project (2018-2021).
 * **Data-Driven Insights:** Utilizing quantitative and qualitative data to generate actionable insights into content prioritization, genre placement, and the impact of algorithmic curation on user behaviour.
