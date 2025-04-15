@@ -1,7 +1,5 @@
 # Publications
 
----
-
 ## 📖 Sole-Authored Books (Monographs)
 
 ### Time, Technology and Narrative Form in Contemporary US Television Drama
@@ -38,6 +36,8 @@ This sole-authored paper undertakes a 'distant reading' of the BBC iPlayer inter
 - 📌 **Editorial Curation:** Analysis of the data revealed a pattern of consistent content placement, suggesting that there is still a high degree of editorial control over the BBC iPlayer interface.
 - 📌 **Platform vs Channel Identity:** The findings contribute to understanding the evolving identity of public service media VoD platforms as they navigate the tension between their broadcast heritage and the demands of on-demand consumption.
 
+<br></br>
+
 **DOI:** [https://doi.org/10.1177/17496020211024201](https://doi.org/10.1177/17496020211024201)
 *[Link to the publisher's website]*
 
@@ -55,6 +55,8 @@ This co-authored study compares the publishing strategies of public service VoD 
 
 **DOI:** [https://tidsskrift.dk/mediekultur/article/view/122386](https://tidsskrift.dk/mediekultur/article/view/122386)
 *[Link to the publisher's website]*
+
+<br></br>
 
 ### “This title is no Longer Available”: Preserving Television in the Streaming Age
 
@@ -75,7 +77,7 @@ This article examines several recent changes in the technological composition an
 - 📌 [Placeholder for Key Finding 2]
 - 📌 [Placeholder for Key Finding 3]
 
----
+<br></br>
 
 ### Television by the Numbers: The Challenges of Audience Measurement in the Age of Big Data
 
@@ -98,25 +100,6 @@ This article examines recent innovations in how television audiences are measure
 
 ---
 
-### Review of Linda Beail and Lilly J. Goren (eds.), Mad Men and Politics: Nostalgia and the Remaking of Modern America
-
-**Type:** Book Review
-
-**Journal:** *The Journal of American Studies*
-
-**Year:** 2017
-
-**DOI:** [https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/linda-beail-and-lilly-j-goren-eds-mad-men-and-politics-nostalgia-and-the-remaking-of-modern-america-new-york-and-london-bloomsbury-academic-2015-5400-pp-228-isbn-978-1-5013-0634-1/92C22348348154522EE25ADDBA59D8B4](https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/linda-beail-and-lilly-j-goren-eds-mad-men-and-politics-nostalgia-and-the-remaking-of-modern-america-new-york-and-london-bloomsbury-academic-2015-5400-pp-228-isbn-978-1-5013-0634-1/92C22348348154522EE25ADDBA59D8B4)
-*[Link to the publisher's website]*
-
-**Abstract:**
-If AMC's critically acclaimed drama Mad Men has taught us anything, it's that we shouldn't judge a book by it's cover…
-
-**Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
-
----
-
 ## Book Chapters
 
 ### "A Stretch of Time: Extended Distribution and Narrative Accumulation in Prison Break"
@@ -133,11 +116,7 @@ If AMC's critically acclaimed drama Mad Men has taught us anything, it's that we
 **Abstract:**
 In this chapter I argue that the new distributive regimes within the contemporary television industry have given rise to new narrative temporalities. In particular, a number of series such as 24 (Fox, 2001 – 2010) bear many hallmarks of what has been called “network time” (Castells 1996), namely acceleration and real-time. Although scholars maintain that “network time” is the dominant temporality of the twenty-first century, I argue that the flexibility of distribution in contemporary television has resulted in multiple narrative temporalities. To illustrate this point I use Prison Break (Fox, 2005 - 2009) as a way to complicate and challenge many of the assumptions made by “network time” scholarship. By taking an industrial-textual approach this chapter highlights the interdependent relationship between narrative and distribution, whilst also revealing key differences between the seriality of shows such as Prison Break (which uses “serialized seasons”) versus series such as 24 (which uses “episodic seasons”).
 
-**Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
-- 📌 [Placeholder for Key Finding 2]
-
----
+<br></br>
 
 ### "Beyond the broadcast text: new economies and temporalities of online TV"
 
@@ -153,8 +132,7 @@ In this chapter I argue that the new distributive regimes within the contemporar
 **Abstract:**
 Online distribution became a significant part of mainstream television culture in the late 2000s. Wired magazine reported that the BBC iPlayer had increased in popularity by 150 per cent in 2008 alone and by mid-2009 was estimated to account for approx- imately 7–10 per cent of all UK online traffic (Chibber, 2009). Likewise, Hulu.com, a US-based aggregator of film and TV content, experienced a similar degree of success...
 
-**Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
+<br></br>
 
 ---
 
@@ -172,11 +150,25 @@ Online distribution became a significant part of mainstream television culture i
 **Description:**
 This R script can be used to clean data scraped from the BBC iPlayer interface. It can be modified to clean and parse datasets for other VOD interfaces. The script is published in support of an article submitted to the journal Critical Studies in Television
 
-**Key Features:**
-- ⚙️ [Placeholder for Key Feature 1]
-- ⚙️ [Placeholder for Key Feature 2]
-
 ---
+
+## Book Reviews
+
+### Review of Linda Beail and Lilly J. Goren (eds.), Mad Men and Politics: Nostalgia and the Remaking of Modern America
+
+**Type:** Book Review
+
+**Journal:** *The Journal of American Studies*
+
+**Year:** 2017
+
+**DOI:** [https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/linda-beail-and-lilly-j-goren-eds-mad-men-and-politics-nostalgia-and-the-remaking-of-modern-america-new-york-and-london-bloomsbury-academic-2015-5400-pp-228-isbn-978-1-5013-0634-1/92C22348348154522EE25ADDBA59D8B4](https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/linda-beail-and-lilly-j-goren-eds-mad-men-and-politics-nostalgia-and-the-remaking-of-modern-america-new-york-and-london-bloomsbury-academic-2015-5400-pp-228-isbn-978-1-5013-0634-1/92C22348348154522EE25ADDBA59D8B4)
+*[Link to the publisher's website]*
+
+**Abstract:**
+If AMC's critically acclaimed drama Mad Men has taught us anything, it's that we shouldn't judge a book by it's cover…
+
+<br></br>
 
 ### Review of Television in Transition: The Life and Afterlife of the Narrative Action Hero
 
@@ -192,10 +184,7 @@ This R script can be used to clean data scraped from the BBC iPlayer interface. 
 **Abstract:**
 Shawn Shimpac's Television in Transition is a timely and original study of the complex industrial and textual dynamics of contemporary television production…
 
-**Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
-
----
+<br></br>
 
 ### Review of Framed Time: Toward a Post-Filmic Cinema
 
@@ -205,11 +194,5 @@ Shawn Shimpac's Television in Transition is a timely and original study of the c
 
 **Year:** 2009
 
-**DOI:** [No DOI Provided]
-*[Link to the journal's website]*
-
 **Abstract:**
-[No Abstract Provided]
-
-**Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
+Review of Framed Time
