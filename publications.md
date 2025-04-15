@@ -12,7 +12,7 @@
 
 **Description:** This book examines how television has been transformed over the past twenty years by the introduction of new viewing technologies including DVDs, DVRs and streaming services such as Netflix, Hulu and Amazon Prime. It shows that these platforms have profoundly altered the ways we access and watch television, enabling viewers to pause, rewind, record and archive the once irreversible flow of broadcast TV. JP Kelly argues that changes in the technological landscape of television has encouraged the production of narrative forms that both explore and embody new industrial temporalities. Focusing on US television but also considering the role of TV within a global marketplace, the author identifies three distinct narrative temporalities: “acceleration” (24; Prison Break), “complexity” (Lost; FlashForward), and “retrospection” (Mad Men).  Through industrial-textual analysis of television shows, this cross-disciplinary study locates these narrative temporalities in their socio-cultural contexts and examines connections between production, distribution, and narrative form in the contemporary television industry.
 
-[View it on Amazon](https://www.amazon.co.uk/Technology-Narrative-Contemporary-Television-Drama/dp/3319631179)
+[View on Amazon](https://www.amazon.co.uk/Technology-Narrative-Contemporary-Television-Drama/dp/3319631179)
 
 ![Time Technology](https://github.com/user-attachments/assets/277f8a4d-8b55-43a9-bced-a0422b427ddc)
 
