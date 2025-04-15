@@ -39,7 +39,7 @@ This sole-authored paper undertakes a 'distant reading' of the BBC iPlayer inter
 **DOI:** [https://doi.org/10.1177/17496020211024201](https://doi.org/10.1177/17496020211024201)
 *[Link to the publisher's website]*
 
-<br></br>
+#
 
 ### "What's on the interface tonight?" A longitudinal analysis of the publishing strategies of public service video-on-demand platforms in the UK and Denmark
 
@@ -60,7 +60,7 @@ This co-authored study compares the publishing strategies of public service VoD 
 **DOI:** [https://tidsskrift.dk/mediekultur/article/view/122386](https://tidsskrift.dk/mediekultur/article/view/122386)
 *[Link to the publisher's website]*
 
-<br></br>
+# 
 
 ### “This title is no Longer Available”: Preserving Television in the Streaming Age
 
@@ -74,14 +74,15 @@ This co-authored study compares the publishing strategies of public service VoD 
 This article examines several recent changes in the technological composition and market logics of television. It considers what these developments might mean for the medium’s preservational qualities and for our understanding of television history more broadly. By focusing on the growth of streaming, the increasing “datafication” of the TV industry, and the prominence of interfaces and catalogs, I demonstrate that the ephemerality of television is both intensifying and diversifying, creating a number of methodological challenges in the process. These developments are placed in a longer history of critical debates around the preservation of digital media and the prospect of a digital dark age so that we might learn lessons from the past that can be applied to the preservational challenges of the present. The article concludes by proposing a number of practical steps so that future television historians might be better equipped to avoid a “scholarly dark age.”
 
 **Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
-- 📌 [Placeholder for Key Finding 2]
-- 📌 [Placeholder for Key Finding 3]
+- 📌 **Ephemerality of Digital Television:** The article highlights how the shift to streaming has intensified the ephemerality of television. Unlike traditional broadcast TV, which had more stable archiving practices, streaming platforms like Netflix frequently remove content, alter interfaces, and produce transient paratexts (e.g., promotional Easter eggs), making preservation challenging.
+- 📌 **Challenges for Media Historians:** The rise of the subscription economy and data-driven decision-making in streaming services creates methodological hurdles for researchers. Key issues include the lack of access to proprietary data, the dynamic nature of digital catalogs, and the loss of interactive or contextual elements (e.g., personalized recommendation lists).
+- 📌 **Risk of a "Digital Dark Age":** The article warns that without proactive preservation strategies, future historians may face a "scholarly dark age" where large portions of contemporary television culture are lost. It calls for new archival methods, institutional collaborations, and tools to document evolving interfaces and catalogs.
+
 
 **DOI:** [https://journals.sagepub.com/doi/full/10.1177/1527476420928480](https://journals.sagepub.com/doi/full/10.1177/1527476420928480)
 *[Link to the publisher's website]*
 
-<br></br>
+# 
 
 ### Television by the Numbers: The Challenges of Audience Measurement in the Age of Big Data
 
@@ -95,9 +96,9 @@ This article examines several recent changes in the technological composition an
 This article examines recent innovations in how television audiences are measured, paying particular attention to the industry's growing efforts to utilize the large bodies of data generated through social media platforms – a paradigm of research known as Big Data. Although Big Data is considered by many in the television industry as a more veracious model of audience research, this essay uses Boyd and Crawford's (2011) `Six Provocations of Big Data' to problematize and interrogate this prevailing industrial consensus. In doing so, this article explores both the affordances and the limitations of this emerging research paradigm – the latter having largely been ignored by those in the industry – and considers the consequences of these developments for the production culture of television more broadly. Although the full impact of the television industry's adoption of Big Data remains unclear, this article traces some preliminary connections between the introduction of these new measurement practices and the production culture of contemporary television. First, I demonstrate how the design of Big Data privileges real-time analysis, which, in turn, encourages increased investment in ‘live’ and/or ‘event’ television. Second, I argue that despite its potential to produce real-time insights, the scale of Big Data actually limits its utility in the context of the creative industries. Third, building on this discussion of the debatable value and applicability of Big Data, I describe how the introduction of social media metrics is further contributing to a ‘data divide’ in which access to these new information data sets is highly uneven, generally favouring institutions over individuals. Taken together, these three different but overlapping developments provide evidence that the introduction of Big Data is already having a notable effect on the television industry in a number of interesting and unexpected ways.
 
 **Key Findings:**
-- 📌 [Placeholder for Key Finding 1]
-- 📌 [Placeholder for Key Finding 2]
-- 📌 [Placeholder for Key Finding 3]
+- 📌 **Shift to Big Data in Audience Measurement:** The television industry is increasingly relying on Big Data (e.g., social media metrics like Nielsen’s Twitter TV Ratings) to complement traditional audience measurement. While this offers real-time insights, it also risks privileging certain genres (e.g., live events) and demographics (e.g., active social media users), potentially skewing production decisions.
+- 📌 **Limitations and Biases of Big Data:** The article critiques the assumption that "bigger data is better," noting challenges like apophenia (finding false patterns), data overload, and the lack of qualitative context. For instance, scripted shows may be undervalued in social metrics because they generate less real-time engagement than live events.
+- 📌 **Data Divide and Access Inequality:** Big Data exacerbates disparities in access to audience insights. Large corporations (e.g., Netflix, Nielsen) hoard proprietary data, while smaller producers and researchers face barriers. This divide reinforces power imbalances in the industry and limits democratic oversight of how audience data shapes content.
 
 **DOI:** [https://journals.sagepub.com/doi/full/10.1177/1354856517700854](https://journals.sagepub.com/doi/full/10.1177/1354856517700854)
 *[Link to the publisher's website]*
@@ -120,7 +121,7 @@ In this chapter I argue that the new distributive regimes within the contemporar
 **DOI:** [https://www.upress.state.ms.us/Books/T/Time-in-Television-Narrative2](https://www.upress.state.ms.us/Books/T/Time-in-Television-Narrative2)
 *[Link to the publisher's website]*
 
-<br></br>
+# 
 
 ### "Beyond the broadcast text: new economies and temporalities of online TV"
 
@@ -170,7 +171,7 @@ If AMC's critically acclaimed drama Mad Men has taught us anything, it's that we
 **DOI:** [https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/linda-beail-and-lilly-j-goren-eds-mad-men-and-politics-nostalgia-and-the-remaking-of-modern-america-new-york-and-london-bloomsbury-academic-2015-5400-pp-228-isbn-978-1-5013-0634-1/92C22348348154522EE25ADDBA59D8B4](https://www.cambridge.org/core/journals/journal-of-american-studies/article/abs/linda-beail-and-lilly-j-goren-eds-mad-men-and-politics-nostalgia-and-the-remaking-of-modern-america-new-york-and-london-bloomsbury-academic-2015-5400-pp-228-isbn-978-1-5013-0634-1/92C22348348154522EE25ADDBA59D8B4)
 *[Link to the publisher's website]*
 
-<br></br>
+# 
 
 ### Review of Television in Transition: The Life and Afterlife of the Narrative Action Hero
 
@@ -186,7 +187,7 @@ If AMC's critically acclaimed drama Mad Men has taught us anything, it's that we
 **Abstract:**
 Shawn Shimpac's Television in Transition is a timely and original study of the complex industrial and textual dynamics of contemporary television production…
 
-<br></br>
+# 
 
 ### Review of Framed Time: Toward a Post-Filmic Cinema
 
