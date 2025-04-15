@@ -93,6 +93,5 @@ This section provides further details of my proficiency with the tools and techn
 
 * **MacOS:**
     * Daily user of the MacOS environment.
-    * Familiar with Windows.
 * **Visual Studio Code:**
     * Proficient in using Visual Studio Code for code editing and development across multiple languages.
