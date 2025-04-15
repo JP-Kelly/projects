@@ -45,3 +45,18 @@ You can access the full interactive version of this visualisation on [Tableau](h
 - Tableau (for visualisation)
 
 You can access the full interactive version of this visualisation on [Tableau](https://public.tableau.com/views/AEPGDevelopment/AEGPStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+## Royal Holloway, Dept. of Media Arts - Learning Outcome Audit
+
+![04 Learning Outcomes](https://github.com/user-attachments/assets/5b89f1a3-435e-46ab-afee-73621ce49453)
+
+**About:** This was part of a institution-wide audit to track and measure learning outcomes across all three years of the various undegraduate degree programmes offered by the Department of Media Arts @ Royal Holloway, University of London. I was lead on this project, which lasted for several months and was subsequently adopted by other departments within the college.
+
+**Tools:**
+- R (to scrape learning outcomes from the College's online repository)
+- Tableau (for visualisation and analysis)
+- Flourish (to create advanced visualisations such as Sankeys)
+
+You can access the full interactive version of this visualisation on [Tableau](https://public.tableau.com/app/profile/jp.kelly8457/viz/BAFTVDP-CourseandModuleLearningOutcomeAnalsysis/LearningOutcomesAnalysis) 
