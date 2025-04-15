@@ -33,3 +33,15 @@ You can access the full interactive version of this visualisation on [Tableau](h
 You can access the full interactive version of this visualisation on [Tableau](https://public.tableau.com/app/profile/jp.kelly8457/viz/QuiteInterestingViz/QIViz)
 
 --- 
+
+## Energy Map 
+
+![03 AEGP Story](https://github.com/user-attachments/assets/71b0f434-3011-4465-8c11-1ee84229a162)
+
+**About**: This project was created to offer a prototype energy monitoring dashboard for an organisation with a large portfolio of properties. 
+
+**Tools:**
+- Python (used the computer vision library to automatically detect and plot properties in a map)
+- Tableau (for visualisation)
+
+You can access the full interactive version of this visualisation on [Tableau](https://public.tableau.com/views/AEPGDevelopment/AEGPStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
