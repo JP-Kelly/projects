@@ -43,3 +43,56 @@ My portfolio demonstrates expertise in:
 * **Methodological Innovation:** Designing and implementing novel data collection and analysis workflows, including automated web scraping and R and Python scripting for data processing.
 
 I am passionate about contributing to a deeper understanding of how digital platforms shape our media consumption and cultural experiences.
+
+#
+
+### Skills Proficiency
+
+This section provides further detail on my proficiency with the tools and technologies listed above.
+
+### 📊 Data Visualization
+
+* **Tableau:**
+    * 9+ years of experience in creating advanced, interactive dashboards and visualisations for data exploration and presentation.
+    * Proficient in connecting to various data sources, creating calculated fields, and using other advanced features such as LODs, filtering, and parameters.
+    * Used extensively for the BBC iPlayer analysis project, demonstrating my ability to communicate complex data insights effectively.
+* **Power BI:**
+    * Familiar with Power BI for creating reports and dashboards.
+    * Experience in data modeling and DAX calculations.
+
+### 🎮 Data Analysis / Programming
+
+* **R:**
+    * Over 9+ years experience. Proficient in R for data cleaning, manipulation, analysis, and statistical modeling.
+    * Experienced in using various R packages (e.g., `dplyr`, `ggplot2`, `tidyr`).
+    * Developed R scripts for data processing in numerous projects, including the BBC iPlayer project.
+* **Python:**
+    * Competent in Python for scripting, data analysis (using libraries like `pandas` and `NumPy`), and automation.
+    * Used Python for web scraping and data processing tasks.
+    * Experience in Computer Vision.
+* **Excel:**
+    * Advanced proficiency in Excel for data manipulation, analysis, and reporting.
+    * Experienced in using formulas, pivot tables, and VBA for automation.
+
+### 💾 Database Management
+
+* **MySQL Workbench:**
+    * Familiar with using MySQL Workbench for database design, querying, and administration.
+    * Experience in creating and managing databases for small to medium-scale projects.
+* **Azure:**
+    * Familiar with Azure cloud services.
+    * Actively developing skills in Azure data services.
+
+### 🌐 Web Development
+
+* **WordPress:**
+    * Experienced in using WordPress for website content management and development.
+    * Proficient in customising themes and using plugins.
+
+### 🖥️ Operating Systems / Environments
+
+* **MacOS:**
+    * Daily user of the MacOS environment.
+    * Familiar with Windows.
+* **Visual Studio Code:**
+    * Proficient in using Visual Studio Code for code editing and development across multiple languages.
