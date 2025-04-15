@@ -48,7 +48,7 @@ I am passionate about contributing to a deeper understanding of how digital plat
 
 ### Skills Proficiency
 
-This section provides further detail on my proficiency with the tools and technologies listed above.
+This section provides further details of my proficiency with the tools and technologies listed above.
 
 ### 📊 Data Visualization
 
