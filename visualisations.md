@@ -1,6 +1,8 @@
 # 📊 Visualisations
 
-This page showcases some of my data visualisations created using Tableau.
+This page showcases a selection of my data visualisations created using Tableau.
+
+---
 
 ## BBC iPlayer Analysis
 
@@ -15,7 +17,7 @@ This page showcases some of my data visualisations created using Tableau.
 
 You can access the full interactive version of this visualisation on [Tableau](https://public.tableau.com/app/profile/jp.kelly8457/viz/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis)
 
-#
+---
 
 ## QI: A Quite Interesting Viz 
 
@@ -27,3 +29,7 @@ You can access the full interactive version of this visualisation on [Tableau](h
 - Python (for extracting scores from episode transcripts and saving these to a dataframe)
 - Excel (for manual data checking)
 - Tableau (for visualisation)
+
+You can access the full interactive version of this visualisation on [Tableau](https://public.tableau.com/app/profile/jp.kelly8457/viz/QuiteInterestingViz/QIViz)
+
+--- 
