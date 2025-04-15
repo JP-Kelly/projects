@@ -60,7 +60,7 @@ This section provides further details of my proficiency with the tools and techn
     * Familiar with Power BI for creating reports and dashboards.
     * Experience in data modeling and DAX calculations.
 
-### 🎮 Data Analysis / Programming
+### 🔍 Data Analysis / Programming
 
 * **R:**
     * Over 9+ years experience. Proficient in R for data cleaning, manipulation, analysis, and statistical modeling.
