@@ -87,6 +87,7 @@ This section provides further details of my proficiency with the tools and techn
 
 * **WordPress:**
     * Experienced in using WordPress for website content management and development.
+    * Significant experience with Contensis Management System for building and maintaining websites.
     * Proficient in customising themes and using plugins.
 
 ### 🖥️ Operating Systems / Environments
