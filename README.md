@@ -23,9 +23,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/474x/77/f0/33/77f033d90e28c29dc6ce7006e66d0caa.jpg" width="36" height="36" alt="MacOS" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7093501?s=200&v=4" width="36" height="36" alt="Contensis" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="36" height="36" alt="DaVinci Resolve" /></a>
+<a href="https://www.blackmagicdesign.com/uk/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="36" height="36" alt="DaVinci Resolve" /></a>
 </p>
 
 
