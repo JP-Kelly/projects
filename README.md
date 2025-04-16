@@ -4,11 +4,12 @@
 ## Data Analyst | Tableau Developer | Senior Lecturer
 
 * 🌍  I'm based in Nottingham
-* 🎓  I have a PhD from the University of Nottingham (2011)
+* 🎓  I have a PhD in Communications from the University of Nottingham (2011)
 * 🖥️  See my data viz portfolio at [Tableau](http://public.tableau.com/app/profile/jp.kelly8457/vizzes)
-* ✉️  You can contact me at [jippykelly@gmail.com](mailto:jippykelly@gmail.com)
+* ✉️  Contact me [via email](mailto:jippykelly@gmail.com)
 * 🧠  I'm currently learning Data Modelling and Computer Vision in Python, and preparing for my Tableau Desktop Certification
 * 🤝  I'm open to collaborating on data-driven projects, especially those in the creative industries
+* 📚  Find a list of my publications [here](https://github.com/JP-Kelly/projects/blob/main/publications.md)
 
 ### Skills
 
@@ -22,7 +23,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7093501?s=200&v=4" width="36" height="36" alt="Contensis" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="36" height="36" alt="DaVinci Resolve" /></a>
 </p>
 
 
